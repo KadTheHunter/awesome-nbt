@@ -104,17 +104,17 @@ Emoji Legend:
 
 ## Communities
 ### Minecraft Servers
-- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`
+- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`.
 
 <!-- END CONTENT -->
 
+<!--lint disable list-item-bullet-indent-->
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 - Kaddicus
   - GitHub: [@KadTheHunter](https://github.com/KadTheHunter)
-<!--lint disable awesome-list-item-->
   - NameMC: [@Kadalyst](https://namemc.com/profile/Kadalyst.2)
   - X: [@kaddicus](https://x.com/kaddicus)
 
