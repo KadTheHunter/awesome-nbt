@@ -23,10 +23,8 @@ The Named Binary Tag (NBT) is a tree data structure used by Minecraft in many sa
 </div>
 
 <!-- TOC -->
-
-## Contents
-
 <!--lint disable awesome-toc-->
+## Contents
 - [Viewing & Editing](#viewing--editing)
   - [Mods](#mods)
   - [Websites](#websites)
@@ -106,7 +104,7 @@ Emoji Legend:
 
 ## Communities
 ### Minecraft Servers
-- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - NBT Archives is the largest public collection of NBT items. IP: `play.nbtarchives.net`
+- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`
 
 <!-- END CONTENT -->
 
@@ -116,6 +114,7 @@ Emoji Legend:
 
 - Kaddicus
   - GitHub: [@KadTheHunter](https://github.com/KadTheHunter)
+<!--lint disable awesome-list-item-->
   - NameMC: [@Kadalyst](https://namemc.com/profile/Kadalyst.2)
   - X: [@kaddicus](https://x.com/kaddicus)
 
