@@ -10,12 +10,6 @@
 
 The curated list of awesome things related to Minecraft's NBT and Component data.
 
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
-
 <!-- description -->
 
 The Named Binary Tag (NBT) is a tree data structure used by Minecraft in many save files to store arbitrary data.
