@@ -4,7 +4,8 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome NBT [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome NBT 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
