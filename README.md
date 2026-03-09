@@ -60,6 +60,7 @@ Emoji Legend:
 - `⛔` `🔹 1.21.8` [Easy NBT Editor](https://modrinth.com/mod/easy-nbt-editor) - An easy-to-use GUI based NBT Editor.
 
 ### Websites
+- [Item Component Viewer](https://far.ddns.me/item) - Simple viewer and editor, showing components in JSON, SNBT and `/give` command format.
 - `🔸 Stale` [webNBT](https://irath96.github.io/webNBT/) / [GitHub](https://github.com/iRath96/webNBT) - An HTML5-based NBT file editor.
 - [NBT2Components](https://misode.github.io/nbt2components/) / [GitHub](https://github.com/misode/nbt2components) - A simple website to convert pre-1.20.5 NBT data to the new Component system.
 - [NBT Minifier](https://autocompressor.net/tools/nbt-minifier) - An _extremely_ experimental tool to "minify" NBT data by removing or shortening unnecessary and verbose data.
