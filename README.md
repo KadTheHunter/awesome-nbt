@@ -76,6 +76,7 @@ Emoji Legend:
 
 ### Websites
 - `⭐` [MCStacker](https://mcstacker.net/) - Command/NBT generator, with support for every Minecraft version above 1.7.
+- `⭐` [Command Block Assembler](https://far.ddns.me/cba/) - Assembles the given list of commands into a single command or spawn egg.
 - [GamerGeeks](https://www.gamergeeks.net/apps/minecraft/) - Command/NBT generators; Very similar to MCStacker, but with a more modern look.
 - [MCUtils](https://mcutils.com/) - A collection of utilities, many related to NBT.
 - [Minetrim](https://minetrim.com/) - Armor Trim generator, with previews and `/give` commands.
