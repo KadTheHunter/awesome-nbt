@@ -103,7 +103,7 @@ Emoji Legend:
 
 ## Communities
 ### Minecraft Servers
-- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) / [Discord](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`.
+- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`.
 
 ### YouTube Channels
 - [Kiwi Joe](https://www.youtube.com/@Kiwi_Joe/shorts) - Short-form content creator with a focus on Commands/NBT.
