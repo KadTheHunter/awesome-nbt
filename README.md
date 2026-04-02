@@ -105,6 +105,9 @@ Emoji Legend:
 ### Minecraft Servers
 - `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`.
 
+### YouTube Channels
+- [Kiwi Joe](https://www.youtube.com/@Kiwi_Joe/shorts) - Short-form content creator with a focus on Commands/NBT.
+
 <!-- END CONTENT -->
 
 <!--lint disable list-item-bullet-indent-->
