@@ -49,22 +49,22 @@ Emoji Legend:
 ### Mods
 - `⭐` [NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete) - Provides tab completion for NBT data in commands and select other mods.
 - `⭐` [Component Viewer](https://modrinth.com/mod/component-viewer) - View and copy components of any item stack.
-- `⭐` ` 1.21.4` [NBT Editor](https://modrinth.com/mod/nbt-editor) - Considered the best in-game NBT Editor, with a fully featured GUI, and many useful utilities.
+- `⭐` ` 1.21.4` [NBT Editor](https://modrinth.com/mod/nbt-editor) / [Discord](https://discord.gg/PzeYTbEZjn) - Considered the best in-game NBT Editor, with a fully featured GUI, and many useful utilities.
 - `⭐` ` 1.21.10` [NBT Editor - Thorium's Fork](https://github.com/Thorioum/NBT-Editor1.21.10) - A fork of NBT Editor providing immediate support for newer versions, until the original is updated.
 - [CAD Editor](https://modrinth.com/mod/cad-editor/) - Component And Data Editor, a modern continuation of IBE.
-- [In-Game NBTEdit Reborn](https://modrinth.com/mod/nbtedit-reborn/) - Edit any NBT tags in-game via a GUI. Modern continuation of In-Game NBTEdit.
-- [System NBT Editor](https://modrinth.com/mod/systemnbteditor) / [GitHub](https://github.com/TrustedSystem/Client-NBT-Editor) - Vibe-coded placeholder for NBT Editor; Has basic SNBT editing, and some utilities like Size in Tooltip.
+- [In-Game NBTEdit Reborn](https://modrinth.com/mod/nbtedit-reborn/) / [Discord](https://discord.gg/Q6zuDWDHJV) - Edit any NBT tags in-game via a GUI. Modern continuation of In-Game NBTEdit.
+- [System NBT Editor](https://modrinth.com/mod/systemnbteditor) / [Discord](https://discord.gg/QXKcKjFCRV) - Vibe-coded placeholder for NBT Editor; Has basic SNBT editing, and some utilities like Size in Tooltip.
 - `🔹 1.21.10` [Dynamic In-Game NBT Editor](https://modrinth.com/mod/dine/) - Update NBT for multiple Entities and Block Entities dynamically.
-- `🔹 1.20.4` [IBE Editor](https://modrinth.com/mod/ibe-editor) - Simple GUI Mod to edit an item, a block or an entity in your current world.
-- `⛔` [AnkiNBT](https://modrinth.com/mod/ankinbt) - Client side NBT/Component editor with a modern UI, with tree-based editing and simple item creation.
-- `⛔` [Cactus Mod](https://modrinth.com/mod/cactus/) - Provides tree and SNBT based NBT Editors, among other utilities.
+- `🔹 1.20.4` [IBE Editor](https://modrinth.com/mod/ibe-editor) / [Discord](https://discord.gg/EZP83PnahG) - Simple GUI Mod to edit an item, a block or an entity in your current world.
+- `⛔` [AnkiNBT](https://modrinth.com/mod/ankinbt) / [Discord](https://discord.gg/Vy4Fu9YsnS) - Client side NBT/Component editor with a modern UI, with tree-based editing and simple item creation.
+- `⛔` [Cactus Mod](https://modrinth.com/mod/cactus/) / [Discord](https://discord.gg/fA48RXQ6B3) - Provides tree and SNBT based NBT Editors, among other utilities.
 - `⛔` `🔹 1.21.8` [Easy NBT Editor](https://modrinth.com/mod/easy-nbt-editor) - An easy-to-use GUI based NBT Editor.
 
 ### Websites
 - [Item Component Viewer](https://far.ddns.me/item) - Simple viewer and editor, showing components in JSON, SNBT and `/give` command format.
 - `🔸 Stale` [webNBT](https://irath96.github.io/webNBT/) / [GitHub](https://github.com/iRath96/webNBT) - An HTML5-based NBT file editor.
 - [NBT2Components](https://misode.github.io/nbt2components/) / [GitHub](https://github.com/misode/nbt2components) - A simple website to convert pre-1.20.5 NBT data to the new Component system.
-- [NBT Minifier](https://autocompressor.net/tools/nbt-minifier) - An _extremely_ experimental tool to "minify" NBT data by removing or shortening unnecessary and verbose data.
+- [NBT Minifier](https://autocompressor.net/tools/nbt-minifier) / [Discord](https://discord.gg/8afxgEpxH4) - An _extremely_ experimental tool to "minify" NBT data by removing or shortening unnecessary and verbose data.
 
 ### Software
 - `⭐` [NBT Workbench](https://github.com/RealRTTV/nbtworkbench) - The spiritual successor to NBT Studio, rewritten in Rust with many more features and support for newer versions.
@@ -73,13 +73,13 @@ Emoji Legend:
 ## Item/Command Generators
 ### Mods
 - [Armor Stands](https://modrinth.com/mod/armor-stands) - Place, pose, and dress armor stands with an easy-to-use UI.
-- [FZMM](https://modrinth.com/mod/fzmm) - A wide array of niche utilities, including Head Generator, ImageText, Head Gallery, Banner Editor, and more.
+- [FZMM](https://modrinth.com/mod/fzmm) / [Discord](https://discord.gg/mwBRwXmE63) - A wide array of niche utilities, including Head Generator, ImageText, Head Gallery, Banner Editor, and more.
 
 ### Websites
-- `⭐` [MCStacker](https://mcstacker.net/) - Command/NBT generator, with support for every Minecraft version above 1.7.
+- `⭐` [MCStacker](https://mcstacker.net/) / [Discord](https://discord.gg/WCb6GNf) - Command/NBT generator, with support for every Minecraft version above 1.7.
 - `⭐` [Command Block Assembler](https://far.ddns.me/cba/) - Assembles the given list of commands into a single command or spawn egg.
 - [GamerGeeks](https://www.gamergeeks.net/apps/minecraft/) - Command/NBT generators; Very similar to MCStacker, but with a more modern look.
-- [MCUtils](https://mcutils.com/) - A collection of utilities, many related to NBT.
+- [MCUtils](https://mcutils.com/) / [Discord](https://discord.gg/HvPARrr55x) - A collection of utilities, many related to NBT.
 - [Minetrim](https://minetrim.com/) - Armor Trim generator, with previews and `/give` commands.
 
 ## Quality of Life
@@ -97,13 +97,13 @@ Emoji Legend:
 - `⭐` [NBT-Database](https://github.com/mega12345mega/NBT-Database) - Store NBT entries in an SQLite database.
 
 ### Collections
-- `⭐` [NBT Library](https://github.com/KadTheHunter/NBT-Library) - A collection of hotbar files intended for use with Librarian.
+- `⭐` [NBT Library](https://github.com/KadTheHunter/NBT-Library) / [Discord](https://discord.gg/cfq25qURfv) - A collection of hotbar files intended for use with Librarian.
 - `🔹 1.21.5` [The Shulker Archives](https://kadthehunter.github.io/ShulkerArchives/) / [GitHub](https://github.com/KadTheHunter/ShulkerArchives) - A map-based collection of Kits, Items and Books.
 - `🔹 1.19.4` [The Shulker Archives - Legacy](https://kadthehunter.github.io/ShulkerArchives-Legacy/) / [GitHub](https://github.com/KadTheHunter/ShulkerArchives-Legacy) - A collection of `.nbt` files for use with NBT Editor.
 
 ## Communities
 ### Minecraft Servers
-- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`.
+- `⭐` [NBT Archives](https://discord.gg/ZhJyamzvvE) / [Discord](https://discord.gg/ZhJyamzvvE) - The largest public collection of NBT items. IP: `play.nbtarchives.net`.
 
 ### YouTube Channels
 - [Kiwi Joe](https://www.youtube.com/@Kiwi_Joe/shorts) - Short-form content creator with a focus on Commands/NBT.
