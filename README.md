@@ -47,6 +47,7 @@ Emoji Legend:
 
 ## Viewing & Editing
 ### Mods
+- `⭐` [Item Editor - Component & NBT](https://modrinth.com/mod/item-editor) / [Discord](https://discord.gg/FaxbR9eEFW) - Client-side item, component and NBT editor for Fabric. Customize held items, edit NBT data, and modify item components via an extensible GUI.
 - `⭐` [NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete) - Provides tab completion for NBT data in commands and select other mods.
 - `⭐` [Component Viewer](https://modrinth.com/mod/component-viewer) - View and copy components of any item stack.
 - `⭐` ` 1.21.4` [NBT Editor](https://modrinth.com/mod/nbt-editor) / [Discord](https://discord.gg/PzeYTbEZjn) - Considered the best in-game NBT Editor, with a fully featured GUI, and many useful utilities.
@@ -72,7 +73,6 @@ Emoji Legend:
 
 ## Item/Command Generators
 ### Mods
-- `⭐` [Item Editor](https://modrinth.com/mod/item-editor) / [Discord](https://discord.gg/FaxbR9eEFW) - A client-side in-game item component editor for Fabric, that abandons the old raw-NBT-only workflows and supports dynamic editors for many special item types.
 - [Armor Stands](https://modrinth.com/mod/armor-stands) - Place, pose, and dress armor stands with an easy-to-use UI.
 - [FZMM](https://modrinth.com/mod/fzmm) / [Discord](https://discord.gg/mwBRwXmE63) - A wide array of niche utilities, including Head Generator, ImageText, Head Gallery, Banner Editor, and more.
 
