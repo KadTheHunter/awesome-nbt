@@ -81,6 +81,7 @@ Emoji Legend:
 - [GamerGeeks](https://www.gamergeeks.net/apps/minecraft/) - Command/NBT generators; Very similar to MCStacker, but with a more modern look.
 - [MCUtils](https://mcutils.com/) / [Discord](https://discord.gg/HvPARrr55x) - A collection of utilities, many related to NBT.
 - [Minetrim](https://minetrim.com/) - Armor Trim generator, with previews and `/give` commands.
+- [Misode](https://misode.github.io/) - A collection of datapack-oriented generators, several of which are useful for item-making.
 
 ## Quality of Life
 ### Mods
