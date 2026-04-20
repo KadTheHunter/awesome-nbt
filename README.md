@@ -54,7 +54,6 @@ Emoji Legend:
 - `⭐` ` 1.21.10` [NBT Editor - Thorium's Fork](https://github.com/Thorioum/NBT-Editor1.21.10) - A fork of NBT Editor providing immediate support for newer versions, until the original is updated.
 - [CAD Editor](https://modrinth.com/mod/cad-editor/) - Component And Data Editor, a modern continuation of IBE.
 - [In-Game NBTEdit Reborn](https://modrinth.com/mod/nbtedit-reborn/) / [Discord](https://discord.gg/Q6zuDWDHJV) - Edit any NBT tags in-game via a GUI. Modern continuation of In-Game NBTEdit.
-- [System NBT Editor](https://modrinth.com/mod/systemnbteditor) / [Discord](https://discord.gg/QXKcKjFCRV) - Vibe-coded placeholder for NBT Editor; Has basic SNBT editing, and some utilities like Size in Tooltip.
 - `🔹 1.21.10` [Dynamic In-Game NBT Editor](https://modrinth.com/mod/dine/) - Update NBT for multiple Entities and Block Entities dynamically.
 - `🔹 1.20.4` [IBE Editor](https://modrinth.com/mod/ibe-editor) / [Discord](https://discord.gg/EZP83PnahG) - Simple GUI Mod to edit an item, a block or an entity in your current world.
 - `⛔` [AnkiNBT](https://modrinth.com/mod/ankinbt) / [Discord](https://discord.gg/Vy4Fu9YsnS) - Client side NBT/Component editor with a modern UI, with tree-based editing and simple item creation.
