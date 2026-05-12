@@ -88,7 +88,7 @@ Emoji Legend:
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui/) - Provides a more usable Command Block UI.
 - `🔹 1.21.11` [Command Block IDE](https://modrinth.com/mod/command-block-ide) - Replaces the command block GUI to allow editing multiple command blocks at once.
 - `🔹 1.21.4` [CFX](https://modrinth.com/mod/cfx) - Patches certain hazardous exploits.
-- `⛔` `💲` [Mitoky's Utility Mod](https://utilitymod.mitoky.com/) - Anti-Crash mod, with some additional utilities.
+- `⛔` `💲` `🔸 Windows OS Only` [Mitoky's Utility Mod](https://utilitymod.mitoky.com/) - Anti-Crash mod, with some additional utilities.
 
 ## NBT Storage / Collections
 ### Mods
