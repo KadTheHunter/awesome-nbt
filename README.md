@@ -86,6 +86,7 @@ Emoji Legend:
 
 ## Quality of Life
 ### Mods
+- `⭐` [Lumen Tooltips](https://modrinth.com/mod/lumen-tooltips) / [Discord](https://discord.gg/FaxbR9eEFW) - Expands item tooltips with various utilities like previews, peeks and scrollability, alongside protection against the Decimator (Translate Crash) exploit.
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui/) - Provides a more usable Command Block UI.
 - `🔹 1.21.11` [Command Block IDE](https://modrinth.com/mod/command-block-ide) - Replaces the command block GUI to allow editing multiple command blocks at once.
 - `🔹 1.21.4` [CFX](https://modrinth.com/mod/cfx) - Patches certain hazardous exploits.
