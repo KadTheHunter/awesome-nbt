@@ -83,6 +83,7 @@ Emoji Legend:
 - [MCUtils](https://mcutils.com/) / [Discord](https://discord.gg/HvPARrr55x) - A collection of utilities, many related to NBT.
 - [Minetrim](https://minetrim.com/) - Armor Trim generator, with previews and `/give` commands.
 - [Misode](https://misode.github.io/) - A collection of datapack-oriented generators, several of which are useful for item-making.
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Converts images into block blueprints with material lists, Java structure NBT and command exports.
 
 ## Quality of Life
 ### Mods
