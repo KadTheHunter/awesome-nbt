@@ -120,12 +120,11 @@ Emoji Legend:
 <!--lint disable list-item-bullet-indent-->
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+<!-- list of people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 - Kaddicus
   - GitHub: [@KadTheHunter](https://github.com/KadTheHunter)
   - NameMC: [@Kadalyst](https://namemc.com/profile/Kadalyst.2)
-  - X: [@kaddicus](https://x.com/kaddicus)
 
 - txsla
   - GitHub: [@Tesla6426](https://github.com/Tesla6426)
