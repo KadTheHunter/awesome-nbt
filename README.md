@@ -73,7 +73,7 @@ Emoji Legend:
 ## Item/Command Generators
 ### Mods
 - [Armor Stands](https://modrinth.com/mod/armor-stands) - Place, pose, and dress armor stands with an easy-to-use UI.
-- [FZMM](https://modrinth.com/mod/fzmm) / [Discord](https://discord.gg/mwBRwXmE63) - A wide array of niche utilities, including Head Generator, ImageText, Head Gallery, Banner Editor, and more.
+- ` 26.2` [FZMM](https://modrinth.com/mod/fzmm) / [Discord](https://discord.gg/mwBRwXmE63) - A wide array of niche utilities, including Head Generator, ImageText, Head Gallery, Banner Editor, and more.
 
 ### Websites
 - `⭐` [MCStacker](https://mcstacker.net/) / [Discord](https://discord.gg/WCb6GNf) - Command/NBT generator, with support for every Minecraft version above 1.7.
