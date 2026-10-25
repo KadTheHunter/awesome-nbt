@@ -50,7 +50,7 @@ Emoji Legend:
 - `⭐` [Item Editor - Component & NBT](https://modrinth.com/mod/item-editor) / [Discord](https://discord.gg/FaxbR9eEFW) - Client-side item, component and NBT editor for Fabric. Customize held items, edit NBT data, and modify item components via an extensible GUI.
 - `⭐` [NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete) - Provides tab completion for NBT data in commands and select other mods.
 - `⭐` [Component Viewer](https://modrinth.com/mod/component-viewer) - View and copy components of any item stack.
-- `⭐` [NBT Editor - Thorium's Fork](https://github.com/Thorioum/NBT-Editor1.21.10) - A fork of NBT Editor providing immediate support for newer versions, until the original is updated.
+- `⭐` ` 26.1.2` [NBT Editor - Thorium's Fork](https://github.com/Thorioum/NBT-Editor1.21.10) - A fork of NBT Editor providing immediate support for newer versions, until the original is updated.
 - `⭐` ` 1.21.4` [NBT Editor](https://modrinth.com/mod/nbt-editor) / [Discord](https://discord.gg/PzeYTbEZjn) - Historically one of the most popular in-game NBT Editors, with a fully featured GUI, and many useful utilities.
 - [AnkiNBT](https://modrinth.com/mod/ankinbt) / [Discord](https://discord.gg/Vy4Fu9YsnS) - Client side NBT/Component editor with a modern UI, tree-based editing and simple item creation.
 - [CAD Editor](https://modrinth.com/mod/cad-editor/) - Component And Data Editor, a modern continuation of IBE.
