@@ -52,7 +52,7 @@ Emoji Legend:
 - `⭐` [Component Viewer](https://modrinth.com/mod/component-viewer) - View and copy components of any item stack.
 - `⭐` ` 26.1.2` [NBT Editor - Thorium's Fork](https://github.com/Thorioum/NBT-Editor1.21.10) - A fork of NBT Editor providing immediate support for newer versions, until the original is updated.
 - `⭐` ` 1.21.4` [NBT Editor](https://modrinth.com/mod/nbt-editor) / [Discord](https://discord.gg/PzeYTbEZjn) - Historically one of the most popular in-game NBT Editors, with a fully featured GUI, and many useful utilities.
-- [AnkiNBT](https://modrinth.com/mod/ankinbt) / [Discord](https://discord.gg/Vy4Fu9YsnS) - Client side NBT/Component editor with a modern UI, tree-based editing and simple item creation.
+- ` 26.2` [AnkiNBT](https://modrinth.com/mod/ankinbt) / [Discord](https://discord.gg/Vy4Fu9YsnS) - Client side NBT/Component editor with a modern UI, tree-based editing and simple item creation.
 - [CAD Editor](https://modrinth.com/mod/cad-editor/) - Component And Data Editor, a modern continuation of IBE.
 - `🔹 1.21.11` [In-Game NBTEdit Reborn](https://modrinth.com/mod/nbtedit-reborn/) / [Discord](https://discord.gg/Q6zuDWDHJV) - Edit any NBT tags in-game via a GUI. Modern continuation of In-Game NBTEdit.
 - `🔹 1.21.10` [Dynamic In-Game NBT Editor](https://modrinth.com/mod/dine/) - Update NBT for multiple Entities and Block Entities dynamically.
