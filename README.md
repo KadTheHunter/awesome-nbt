@@ -79,6 +79,7 @@ Emoji Legend:
 - `⭐` [MCStacker](https://mcstacker.net/) / [Discord](https://discord.gg/WCb6GNf) - Command/NBT generator, with support for every Minecraft version above 1.7.
 - `⭐` [Command Generator IDE](https://command-generator-ide.dev/) - Command generator for virtually every command in Minecraft 1.21.11+, plus an Image-To-Text generator.
 - `⭐` [Command Block Assembler](https://far.ddns.me/cba/) - Assembles the given list of commands into a single command or spawn egg.
+- `⭐` [Piggo's Minecraft Converters](https://piggopotamus.github.io/index.html) - Converts Schematics, Images/GIFs, and Music into commands for items.
 - [ArmorStand (Haselkern)](https://haselkern.com/Minecraft-ArmorStand/) - Generates a summon command, to summon an armorstand in a desired pose.
 - [Minecraft 1.20.5+ Image-To-Text](https://autocompressor.net/tools/mc-image-text) - An advanced tool to convert Images to Loreart, while preserving quality and minimizing size.
 - [GamerGeeks](https://www.gamergeeks.net/apps/minecraft/) - Command/NBT generators; Very similar to MCStacker, but with a more modern look.
